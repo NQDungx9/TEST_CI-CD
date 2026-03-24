@@ -1,0 +1,14 @@
+D:\Test_CICD\Test_CICD\bin\Debug\net8.0\Test_CICD.exe
+D:\Test_CICD\Test_CICD\bin\Debug\net8.0\Test_CICD.deps.json
+D:\Test_CICD\Test_CICD\bin\Debug\net8.0\Test_CICD.runtimeconfig.json
+D:\Test_CICD\Test_CICD\bin\Debug\net8.0\Test_CICD.dll
+D:\Test_CICD\Test_CICD\bin\Debug\net8.0\Test_CICD.pdb
+D:\Test_CICD\Test_CICD\obj\Debug\net8.0\Test_CICD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test_CICD\Test_CICD\obj\Debug\net8.0\Test_CICD.AssemblyInfoInputs.cache
+D:\Test_CICD\Test_CICD\obj\Debug\net8.0\Test_CICD.AssemblyInfo.cs
+D:\Test_CICD\Test_CICD\obj\Debug\net8.0\Test_CICD.csproj.CoreCompileInputs.cache
+D:\Test_CICD\Test_CICD\obj\Debug\net8.0\Test_CICD.dll
+D:\Test_CICD\Test_CICD\obj\Debug\net8.0\refint\Test_CICD.dll
+D:\Test_CICD\Test_CICD\obj\Debug\net8.0\Test_CICD.pdb
+D:\Test_CICD\Test_CICD\obj\Debug\net8.0\Test_CICD.genruntimeconfig.cache
+D:\Test_CICD\Test_CICD\obj\Debug\net8.0\ref\Test_CICD.dll
