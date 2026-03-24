@@ -19,5 +19,12 @@ namespace TestProject1
             var result = _program.Add(2, 3);
             Assert.AreEqual(5, result);
         }
+
+        [Test]
+        public void Minus_MinusOf2Number()
+        {
+            var result = _program.Minus(2, 3);
+            Assert.AreEqual(2, result);
+        }
     }
 }
