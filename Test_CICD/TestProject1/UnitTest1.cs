@@ -16,7 +16,7 @@ namespace TestProject1
         public void Add_SumOf2Number()
         {
             var result = _program.Add(2, 3);
-            Assert.Pass();
+            Assert.Equals(5, result);
         }
     }
 }
