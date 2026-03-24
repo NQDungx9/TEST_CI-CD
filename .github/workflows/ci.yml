@@ -33,4 +33,4 @@ jobs:
 
       # Chạy Unit Test (NUnit)
       - name: Run Tests
-        run: dotnet test TestProject1/TestProject1.csproj --no-build --verbosity normal
+        run: dotnet test Test_CICD/TestProject1/TestProject1.csproj --no-build --verbosity normal
