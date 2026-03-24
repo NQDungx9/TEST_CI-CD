@@ -3,6 +3,7 @@ using TESTCICD;
 
 namespace TestProject1
 {
+    [TestFixture]
     public class Tests
     {
         private Program _program;
@@ -16,7 +17,7 @@ namespace TestProject1
         public void Add_SumOf2Number()
         {
             var result = _program.Add(2, 3);
-            Assert.Pass();
+            Assert.AreEqual(5, result);
         }
     }
 }
