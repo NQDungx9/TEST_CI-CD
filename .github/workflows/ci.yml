@@ -25,12 +25,12 @@ jobs:
 
       # Restore thư viện
       - name: Restore dependencies
-        run: dotnet restore Test_CICD/TEST_CICD.csproj
+        run: dotnet restore Test_CICD/Test_CICD/Test_CICD.csproj
 
       # Build project
       - name: Build
-        run: dotnet build Test_CICD/TEST_CICD.csproj --no-restore --configuration Release
+        run: dotnet build Test_CICD/Test_CICD/Test_CICD.csproj --no-restore --configuration Release
 
       # Chạy Unit Test (NUnit)
       - name: Run Tests
-        run: dotnet test TestProject1/TestProject1.csproj --no-build --verbosity normal
+        run: dotnet test Test_CICD/TestProject1/TestProject1.csproj --no-build --verbosity normal
